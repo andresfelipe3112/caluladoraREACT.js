@@ -1,5 +1,5 @@
 {
-  "homepage":"https://andresfelipe3112.github.io/CalculadoraReact" ,
+  "homepage": "https://andresfelipe3112.github.io/CalculadoraReact",
   "name": "react-calc",
   "version": "0.1.0",
   "private": true,
@@ -16,5 +16,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
